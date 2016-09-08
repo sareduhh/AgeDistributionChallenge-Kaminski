@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Age Distribution Challenge\Age Distribution Challenge\bin\Debug\Age Distribution Challenge.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Age Distribution Challenge\Age Distribution Challenge\bin\Debug\Age Distribution Challenge.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Age Distribution Challenge\Age Distribution Challenge\bin\Debug\Age Distribution Challenge.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Age Distribution Challenge\Age Distribution Challenge\obj\Debug\Age Distribution Challenge.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Age Distribution Challenge\Age Distribution Challenge\obj\Debug\Age Distribution Challenge.pdb
